@@ -52,7 +52,7 @@ The Graduate Aptitude Test in Engineering (GATE) is India's most prestigious nat
 - **Analytical Aptitude**: Logic, reasoning, numerical relations
 - **Spatial Aptitude**: Shape transformations, paper folding, patterns
 
-### Popular Branch Syllabi
+### Popular Branch Syllabus
 **Computer Science & IT**: Programming, Data Structures, Algorithms, OS, DBMS, Networks, Theory of Computation, Digital Logic, Compiler Design
 
 **Mechanical Engineering**: Thermodynamics, Fluid Mechanics, Heat Transfer, Machine Design, Manufacturing, Materials Science
@@ -82,7 +82,7 @@ The Graduate Aptitude Test in Engineering (GATE) is India's most prestigious nat
 ### Step-by-Step Application Process
 
 #### Step 1: Registration on GOAPS Portal
-1. Visit the official website: https://gate2025.iitr.ac.in
+1. Visit the official website: https://goaps.iitg.ac.in/login
 2. Click on "REGISTER HERE" button
 3. Fill registration details:
    - Full Name
